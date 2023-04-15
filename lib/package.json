@@ -1,0 +1,29 @@
+{
+  "name": "fullscr",
+  "version": "1.0.2",
+  "description": "Go fullscreen on any browser with one line of code",
+  "main": "fullscr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Axorax/fullscr.js.git"
+  },
+  "keywords": [
+    "fullscreen",
+    "browser",
+    "browser-fullscreen",
+    "web-fullscreen",
+    "entire-screen",
+    "full-screen",
+    "fullscr",
+    "fullscrn"
+  ],
+  "author": "Axorax",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Axorax/fullscr.js/issues"
+  },
+  "homepage": "https://github.com/Axorax/fullscr.js#readme"
+}
